@@ -1,0 +1,41 @@
+/* CSS for ButtonXBlock */
+
+.count {
+  font-weight: bold;
+
+  width: 15%;
+  height: 50%;
+  font-size: 8rem;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  justify-content: center;
+  border: 2px solid black;
+  border-radius: 1rem;
+}
+
+.firstbutton_block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.parent-for-p {
+  flex-direction: column;
+  height: 670px;
+  width: 90rem;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  background-color: rgb(11, 11, 244);
+  height: 3rem;
+  border-radius: 0.5rem;
+  color: aliceblue;
+}
